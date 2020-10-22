@@ -17,9 +17,8 @@ With this project, I was finally able to try my hand at some web design, using <
 After receiving classroom instruction on the uses of HTML and CSS, I had to learn to utilize <a href="https://getbootstrap.com/">Bootstrap</a>, an open-source CSS framework that can speed up the web-design process and make finished sites responsive to the devices accessing them. I also had to return to both <a href="https://www.python.org/">Python</a> and <a href="https://pandas.pydata.org/">Pandas</a> in order to generate an dynamic table embedded in my site's <a href="https://sonder74.github.io/latitude/data">final page</a>.
 
 
-## Background
-
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+## Outcomes and Lessons Learned
+After some practice, I became more familiar and comfortable with Bootstrap's coding structure, and generating new web pages became much easier. My finished site contains pop-up visualizations, a navigation-bar dropdown menu, a dynamic HTML table, and more. It is currently hosted by GitHub Pages <a href="https://sonder74.github.io/latitude/">here</a>.
 
 
 ### Before You Begin
