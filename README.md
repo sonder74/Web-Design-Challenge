@@ -13,6 +13,9 @@
 ## Project Goals
 With this project, I was finally able to try my hand at some web design, using <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> to bring the data from <a href="https://github.com/sonder74/web-scraping-challenge">a former assignment</a> to life. My goal was to produce a clean, communicative website featuring visualizations related to global weather patterns.
 
+## Tools and Solutions
+After receiving classroom instruction on the uses of HTML and CSS, I had to learn to utilize <a href="https://getbootstrap.com/">Bootstrap</a>, an open-source CSS framework that can speed up the web-design process and make finished sites responsive to the devices accessing them. I also had to return to both <a href="https://www.python.org/">Python</a> and <a href="https://pandas.pydata.org/">Pandas</a> in order to generate an dynamic table embedded in my site's <a href="https://sonder74.github.io/latitude/data">final page</a>.
+
 
 ## Background
 
