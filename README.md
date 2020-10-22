@@ -20,4 +20,5 @@ After some practice, I became more familiar and comfortable with Bootstrap's cod
 
 ## Coding Screenshots
 ![navbar](screenshots/navbar_screenshot.png)
+<br><br>
 ![html_table](screenshots/html_table_screenshot.png)
