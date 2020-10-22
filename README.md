@@ -11,7 +11,7 @@
 ![latitude](latitude_screenshot.png)
 
 ## Project Goals
-With this project, I returned to the subect of global climate, beginning with the exploration and analysis of a large set of weather data. Once that analysis was complete and a new set of data tables created, I had to design queries using a methodology new to me: <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>.
+With this project, I was finally able to try my hand at some web design, using <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> and <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> to bring the data from <a href="https://github.com/sonder74/web-scraping-challenge">a former assignment</a> to life. My goal was to produce a clean, communicative website featuring visualizations related to global weather patterns.
 
 
 ## Background
