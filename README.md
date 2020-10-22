@@ -1,5 +1,5 @@
 
-# SQLAlchemy Challenge (Grade: A+)
+# Web Design Challenge (Grade: A+)
  
 ### Table of Contents:
 
@@ -10,7 +10,6 @@
    
 
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
